@@ -4,7 +4,7 @@ class DockerMachineIpconfig < Formula
   url "https://github.com/fivestars/docker-machine-ipconfig.git",
     :tag => "v1.0.0"
 
-  depends_on "docker-machine" => :recommended
+  depends_on "docker-machine"
 
   def install
     bin.install "docker-machine-ipconfig"
