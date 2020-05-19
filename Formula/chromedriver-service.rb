@@ -2,7 +2,7 @@ class ChromedriverService < Formula
   desc "Run Chromedriver as a service"
   homepage "https://chromedriver.chromium.org/"
   # Nothing to download:
-  url "https://github.com/zored/homebrew-brew.git", :tag => "v1.0.1"
+  url "https://github.com/zored/homebrew-brew.git", :tag => "v1.0.3"
   sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
   def install
