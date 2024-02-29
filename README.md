@@ -4,7 +4,7 @@
 ## Usage
 ```bash
 brew tap zored/homebrew-brew
-brew install zored/homebrew-brew/icu4c73
+brew install zored/homebrew-brew/icu4c
 ```
 
 
