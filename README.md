@@ -12,6 +12,7 @@ brew install zored/homebrew-brew/icu4c
 My brew formulas are here.
 - `docker-machine-ipconfig`.
 - `chromedriver-service`.
-- `icu-73'.
+- `icu-73`.
+- `wkhtmltopdf`.
 
 ## Development
