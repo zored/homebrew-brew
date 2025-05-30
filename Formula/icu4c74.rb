@@ -18,8 +18,6 @@ class Icu4c74 < Formula
 
   keg_only :versioned_formula
 
-  disable! date: "2025-05-01", because: :versioned_formula
-
   def install
     args = %w[
       --disable-samples
