@@ -13,6 +13,5 @@ My brew formulas are here.
 - `docker-machine-ipconfig`.
 - `chromedriver-service`.
 - `icu-73`.
+- `icu-74`.
 - `wkhtmltopdf`.
-
-## Development
