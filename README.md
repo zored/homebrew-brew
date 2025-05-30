@@ -1,17 +1,12 @@
 # Zored Brew
-
-
-## Usage
 ```bash
 brew tap zored/homebrew-brew
 brew install zored/homebrew-brew/icu4c
 ```
 
-
-## Formulas
-My brew formulas are here.
-- `docker-machine-ipconfig`.
-- `chromedriver-service`.
-- `icu-73`.
-- `icu-74`.
-- `wkhtmltopdf`.
+Formulas:
+- `zored/brew/docker-machine-ipconfig`.
+- `zored/brew/chromedriver-service`.
+- `zored/brew/icu4c73`.
+- `zored/brew/icu4c74`.
+- `zored/brew/wkhtmltopdf`.
